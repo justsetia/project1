@@ -1,0 +1,7 @@
+this code is for finding the if num is prime or not
+it takes the num 
+then check if it is divisable with preivous num or not
+if yes it is not prime
+if no it is prime
+
+but we know that even prime numbers are divisable by themselves and 1.
