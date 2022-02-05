@@ -1,0 +1,58 @@
+body{
+    background-color: #202124;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.squ{
+    width: 24px;
+    height: 24px;
+    fill: white;
+    vertical-align: middle;
+    margin-left: 10px;
+    
+}
+
+.up{
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+
+.logo{
+    position: relative;
+    display: inline-block;
+    margin-top: 200px;
+
+
+}
+
+
+.write{
+    position: absolute;
+    bottom: 3px;
+    right:  6px;
+    color: #4478f6;
+    font-size: 20px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+
+.google-search{
+    width: 150px;
+    height: 30px;
+    background-color:whitesmoke;
+    margin-top: 30px;
+    line-height: 30px;
+    border-radius: 2px;
+
+}
+
+a{
+    color: #202124;
+    text-decoration: none;
+
+}
